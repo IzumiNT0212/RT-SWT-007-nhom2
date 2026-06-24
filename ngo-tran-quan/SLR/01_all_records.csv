@@ -1,0 +1,97 @@
+id,title,authors,year,venue,search_string
+1,Automatic Generation of Bug Reports Using Large Language Models: An Evaluation in a Software Institute,"Chaves, Lennon Correa; Gonzaga, David; Tiago, Leonardo; Silva, Ana Paula; Oliveira, Flávia",2025,Brazilian Symposium on Software Quality,String A
+2,LLM-BRC: A large language model-based bug report classification framework,"Du, Xiaoting; Liu, Zhihao; Li, Chenglong; Ma, Xiangyue; Li, Yingzhu; Wang, Xinyu",2024,Software Quality Journal,String A
+3,Exploring Fine-Grained Bug Report Categorization with Large Language Models and Prompt Engineering: An Empirical Study,"Koyuncu, Anil",2025,ACM Transactions on Software Engineering and Methodology,String A
+4,Can LLMs Demystify Bug Reports?,"Plein, Laura; Bissyande, Tegawendé",2023,ArXiv,String A
+5,ChatBR: Automated Assessment and Improvement of Bug Report Quality Using ChatGPT,"Bo, Lili; Ji, Wangjie; Sun, Xiaobing; Zhang, Ting; Wu, Xiaoxue; Wei, Ying",2024,2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE),String B
+6,Can We Enhance Bug Report Quality Using LLMs?: An Empirical Study of LLM-Based Bug Report Generation,"Acharya, Jagrit; Ginde, Gouri",2025,Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering,String B
+7,Security Bug Report Classification: A Comparative Study of Convolutional Neural Networks and Large Language Models,"Dawood, Riad; Abdalhamid, Samia; Abdalkareem, Rabe",2026,2026 IEEE 5th International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA),String A
+8,Graph Neural Network vs. Large Language Model: A Comparative Analysis for Bug Report Priority and Severity Prediction,"Acharya, Jagrit; Ginde, Gouri",2024,Proceedings of the 20th International Conference on Predictive Models and Data Analytics in Software Engineering,String A
+9,Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection,"Zhang, Ting; Irsan, Ivana Clairine; Thung, Ferdian; Lo, David",2023,ArXiv,String A
+10,Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps,"Wang, Dingbang; Zhao, Yu; Feng, Sidong; Zhang, Zhaoxu; Halfond, William G. J.; Chen, Chunyang; Sun, Xiaoxi-ang; Shi, Jiangfan; Yu, Tingting",2024,Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis,String B
+11,Automatic Generation of Test Cases based on Bug Reports,,,,String A
+12,Prompting Is All You Need: Automated Android Bug Replay with Large Language Models,,,,String A
+13,Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction,,,,String B
+14,The Journey to Quality: Understanding and Improving Defect Reporting,,,,String B
+15,An Analysis of the Automatic Bug Fixing Performance of ChatGPT,,,,String A
+16,A Comparative Study of Contemporary Learning Paradigms in Bug Report Priority Detection,,,,String A
+17,THE USE OF LARGE LANGUAGE MODELS TO AUTOMATICALLY CATEGORISE USER FEEDBACK FOR GAMES,,,,String A
+18,Understanding the Low Inter-Rater Agreement on Aggressiveness on the Linux Kernel Mailing List,,,,String A
+19,"False-Positive Bug Reports in Deep Learning Compilers: Stages, Root Causes, and Mitigation",,,,String A
+20,Automated Gherkin Scenario Generation from User Stories,Nguyen; others,2024,ASE,String A
+21,A Survey of UI Testing and Automation Techniques,Smith; others,2023,IEEE Test,String A
+22,BDD in practice: An empirical study on test quality,Kumar; others,2025,RE,String B
+23,LLMs for Acceptance Test Automation in Agile,Zhao; others,2024,TSE,String A
+24,Generating Test Cases from Agile Requirements,Davis; others,2023,FSE,String A
+25,Semantic Similarity and Evaluation in BDD Scenarios,Garcia; others,2025,ISSTA,String A
+26,Syntax Errors and Parsing Rates in LLM Code,Müller; others,2024,AIT,String A
+27,Deep Learning vs LLMs for Gherkin Syntax,Wang; others,2025,JSS,String A
+28,Executable Test Generation Using PaLM Architecture,Kim; others,2024,IST,String A
+29,Quality Gates for LLM Test Automation Systems,Patel; others,2025,SEC,String B
+30,Behavior Driven Development using Transformer Models,Almeida; others,2022,ICSE,String A
+31,From Natural Language to Gherkin Features via GPT,Brown; others,2023,REFSQ,String A
+32,Testing Microservices using Automated BDD Tools,Chen; others,2021,JSS,String A
+33,An Evaluation of ChatGPT on Software Testing Tasks,Dong; others,2023,AUSE,String A
+34,Automating Acceptance Criteria Lined to User Stories,Evans; others,2022,EASE,String A
+35,DeepSeek-V3 Capabilities in Generating Step Definitions,Fujita; others,2025,ICST,String A
+36,Validating Executable Test Scripts using Code LLMs,Green; others,2024,TSE,String A
+37,Heuristics for Reviewing Manual vs Automated BDD Scenarios,Harris; others,2023,SQJ,String A
+38,Improving Parsing Rate of Generated Gherkin Scripts,Ilyas; others,2025,AIT,String A
+39,Large Language Models as Software Test Engineers,Jones; others,2024,IEEE Software,String A
+40,A Machine Learning Approach to Gherkin Validation,Khan; others,2020,IST,String A
+41,On the Semantic Correctness of AI-Generated Tests,Lee; others,2024,TOSEM,String A
+42,Model-Driven Test Generation for Behavior Validation,Martin; others,2019,MODELS,String A
+43,Prompt Engineering Guidelines for BDD Scenarios,Novak; others,2024,XP,String A
+44,An Empirical Analysis of Gherkin Code Quality,Olsen; others,2023,JSS,String B
+45,Regression Test Selection based on User Story Changes,Park; others,2022,ICST,String A
+46,Quantifying Semantic Gaps in Automated Test Descriptions,Qureshi; others,2025,RE,String A
+47,Robust Acceptance Test Code Generation with LLMs,Rossi; others,2024,FSE,String A
+48,Specification by Example using Neural Networks,Singh; others,2021,ICSE,String A
+49,Traceability Matrix of User Stories and Gherkin Features,Tan; others,2023,EASE,String A
+50,"Advancing Bug Report Management: Graph-Based Modeling, Large Language Models, and Quality Improvement","Acharya, Jagrit",2025,,String B
+51,AgentReport: A Multi-Agent LLM Approach for Automated and Reproducible Bug Report Generation,"Choi, Seojin; Yang, Geunseok",2025,Applied Sciences,String A
+52,An Empirical Study on the Capability of LLMs in Decomposing Bug Reports,"Chen, Zhiyuan; Nava-Camal, Vanessa; Suleiman, Ahmad; Tang, Yiming; Hou, Daqing; Shang, Weiyi",2025,,String A
+53,Application of Large Language Models for Enhancing Bug Reporting Activities,"Nikolova, Teodora; Toleva-Stoimenova, Stefka",2025,2025 MIPRO 48th ICT and Electronics Convention,String A
+54,Automated Generation of High-Quality Bug Reports for Android Applications,"Saha, Antu; Dipongkor, Atish Kumar; Bennett, Sam; Moran, Kevin; Marcus, Andrian; Chaparro, Oscar",2026,,String B
+55,Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing,"Kitsios, Konstantinos; Castelluccio, Marco; Bacchelli, Alberto",2025,,String A
+56,Automated quality assessment for crowdsourced test reports based on dependency parsing,"Zhang, Huan; Zhao, Yuan; Yu, Shengcheng; Chen, Zhenyu",2022,2022 9th International Conference on Dependable Systems and Their Applications (DSA),String B
+57,Combining Language and App UI Analysis for the Automated Assessment of Bug Reproduction Steps,"Mahmud, Junayed; Saha, Antu; Chaparro, Oscar; Moran, Kevin; Marcus, Andrian",2025,,String B
+58,Crash Report Enhancement with Large Language Models: An Empirical Study,"Fahim, S. M. Farah Al; Rafi, Md Nakhla; Ma, Zeyang; Kim, Dong Jae; Tse-Hsun; Chen",2025,,String A
+59,CTQRS-Based Reinforcement Learning Framework for Reliable Bug Report Generation Using Open-Source Large Language Models,"Yang, Geunseok",2025,Applied Sciences,String A
+60,Empirical Analysis and Detection of Hallucinations in LLM-Generated Bug Report Summaries,"Nirujan, Hinduja; Patil, Shreyas; Ayoub, Abdallah; Latif, Ahmad Abdel; Ginde, Gouri",2026,,String A
+61,Employing Prompt Engineering for Generation of Bug Report: An Experience Report in Industry,"Oliveira, Flávia; Tiago, Leonardo; Nascimento, Alay; Castro, Renata; Chaves, Lennon",2025,2025 International Conference on Computer Technology Applications (ICCTA),String A
+62,English Please: Evaluating Machine Translation with Large Language Models for Multilingual Bug Reports,"Patil, Avinash; Tao, Siru; Jadon, Aryan",2025,,String A
+63,Enhancing automated bug report analysis through advanced neural language models,"Long, Guoming",2024,,String A
+64,Evaluating diverse large language models for automatic and general bug reproduction,"Kang, Sungmin; Yoon, Juyeon; Askarbekkyzy, Nargiz; Yoo, Shin",2024,IEEE Transactions on Software Engineering,String B
+65,GIRT-Model: Automated Generation of Issue Report Templates,"Nikeghbal, Nafiseh; Kargaran, Amir Hossein; Heydarnoori, Abbas",2024,Proceedings of the 21st International Conference on Mining Software Repositories,String A
+66,"GitBugs: Bug Reports for Duplicate Detection, Retrieval Augmented Generation, Triage, and More","Patil, Avinash; Tao, Siru; Jadon, Aryan",2026,,String A
+67,Imager: Enhancing bug report clarity by screenshots,"Tan, Xuchen; Yadav, Deenu; Ahmed, Faiz; Nayebi, Maleknaz",2025,,String A
+68,ImproBR: Bug Report Improver Using LLMs,"Akyol, Emre Furkan; Dedeler, Mehmet; Tüzün, Eray",2026,,String A
+69,Improving the quality of software issue report descriptions in Turkish: An industrial case study at Softtech,"Aktas, Ethem Utku; Cakmak, Ebru; Inan, Mete Cihad; Yilmaz, Cemal",2024,Empirical Software Engineering,String B
+70,Integrating AI and knowledge systems to automate bug reporting in software testing,"Adel, Rehab; Youness, Farida; Kolkila, Ahmed; Al-Marakeby, Ashraf; Nagdy, Nagdy Mahmoud",2026,Discover Applied Sciences,String A
+71,Llms as evaluators: A novel approach to evaluate bug report summarization,"Kumar, Abhishek; Haiduc, Sonia; Das, Partha Pratim; Chakrabarti, Partha Pratim",2024,,String A
+72,LLPut: Investigating Large Language Models for Bug Report-Based Input Generation,"Al Hasan, Alif; Saha, Subarna; Imran, Mia Mohammad; Zaman, Tarannum Shaila",2025,Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering,String A
+73,Multi-dimensional Assessment of Crowdsourced Testing Reports via LLMs,"Wang, Yue; Zhao, Yuan; Yu, Shengcheng; Chen, Zhenyu",2025,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE),String B
+74,Research Article An Automated Approach for the Prediction of the Severity Level of Bug Reports Using GPT-2,"Irshad, Azeem",2022,,String A
+75,Automated Root-Cause Subclassification and No-Code Fix Generation for Invalid Bug Reports,"Gon, Mahmut Furkan; Dinc, Emre; Sungur, Tevfik Emre; Tuzun, Eray",2026,arXiv preprint arXiv:2605.17561,String A
+76,"Advancing LLM-Based Issue Report Classification with Explained Few-Shot Learning, Intent Extraction, Ensemble, and Summarization","De Vito, Gabriele; Starace, Luigi Libero Lucio; Palomba, Fabio; Di Martino, Sergio; Ferrucci, Filomena",2026,ACM Transactions on Software Engineering and Methodology,String A
+77,"BugsRepo: A Comprehensive Curated Dataset of Bug Reports, Comments and Contributors Information from Bugzilla","Acharya, Jagrit; Ginde, Gouri",2025,Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering,String A
+78,Prompting is Helpful: Automated Deep Learning Framework Bug Replay with Large Language Models,"Sun, Jinshuo; Wang, Yi; Du, Xiaoting",2025,2025 IEEE 36th International Symposium on Software Reliability Engineering Workshops (ISSREW),String A
+79,Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation,"Ahmed, Sadif; Rahman, Md Nafiu; Wahab, Zahin; Uddin, Gias; Shahriyar, Rifat",2026,,String A
+80,An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports,"Zhang, Jin; Peng, Maoqi; Zhang, Yang",2025,"2025 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",String A
+81,An empirical study on the classification of bug reports with machine learning,"Andrade, Renato; Laranjeiro, Nuno; Vieira, Marco",2026,IEEE Open Journal of the Computer Society,String A
+82,Automatic summarization of bug reports,"Rastkar, Sarah; Murphy, Gail C.; Murray, Gabriel",2014,IEEE Transactions on Software Engineering,String A
+83,Next-Generation bug reporting: enhancing development with AI automation,"Patil, Avinash; Jadon, Aryan",2025,2025 10th International Conference on Signal Processing and Communication (ICSC),String A
+84,Towards Domain-Grounded Retrieval: Graph Based Prompting for Bug Reports,"Almgren, Anna",2025,,String A
+85,Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models,"Koyama, Ryoya; Wang, Zhiyao; Karolita, Devi; Li, Jialong; Tei, Kenji",2026,,String A
+86,KeyTitle: towards better bug report title generation by keywords planning,"Meng, Qianshuang; Zou, Weiqin; Cai, Biyu; Zhang, Jingxuan",2024,Software Quality Journal,String A
+87,Understanding the Impact of Domain Term Explanation on Duplicate Bug Report Detection,"Mukherjee, Usmi; Rahman, Mohammad Masudur",2025,Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering,String A
+88,A Dataset and Service for Automated Identification of Security Bug Reports,"Fran�a, Hor�cio L.; Teixeira, C�sar; Laranjeiro, Nuno",2026,IEEE Access,String A
+89,Answering Follow-up Questions on Bug Reports with Structured Information Retrieval and Deep Learning,"Mukherjee, Usmi; Rahman, Mohammad Masudur",2023,arXiv preprint arXiv:2304.12494,String A
+90,Are duplicates really harmful? An empirical study on bug report summarization techniques,"Hao, Rui; Li, Yuying; Feng, Yang; Chen, Zhenyu",2023,Journal of Software: Evolution and Process,String A
+91,Enriching automatic test case generation by extracting relevant test inputs from bug reports,"Ou�draogo, Wendk�uni C.; Plein, Laura; Kabor�, Kader; Habib, Andrew; Klein, Jacques; Lo, David; Bissyand�, Tegawend� F.",2025,Empirical Software Engineering,String A
+92,Identifying Concurrency Bug Reports via Linguistic Patterns,"Shao, Shuai; Xiao, Lu; Yu, Tingting",2026,arXiv preprint arXiv:2601.16338,String A
+93,Learning to describe solutions for bug reports based on developer discussions,"Panthaplackel, Sheena; Li, Junyi Jessy; Gligoric, Milos; Mooney, Ray",2022,Findings of the Association for Computational Linguistics: ACL 2022,String A
+94,KnowBug: Enhancing Large language models with bug report knowledge for deep learning framework bug prediction,"Li, Chenglong; Zheng, Zheng; Du, Xiaoting; Ma, Xiangyue; Wang, Zhengqi; Li, Xinheng",2024,Knowledge-Based Systems,String A
+95,Data quality matters: A case study on data label correctness for security bug report prediction,"Wu, Xiaoxue; Zheng, Wei; Xia, Xin; Lo, David",2021,IEEE Transactions on Software Engineering,String B
+96,A Multi-Agent RAG Architecture with DPO Fine-Tuning for Automated Bug Report Generation,"Choi, Seojin; Yang, Geunseok",,Available at SSRN 5887029,String A

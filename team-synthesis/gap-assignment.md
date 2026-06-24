@@ -206,12 +206,6 @@ Nhóm chọn GAP trên vì:
 | Scope | Pilot feasibility experiment, không claim industrial-scale validation |
 | Người quyết định | Nhóm + PL, dựa trên GAP của 5 thành viên |
 
----
 
-## 11. Commit message đề xuất
 
-Khi upload file này lên GitHub, dùng commit message:
 
-```text
-[RBL-2] finalize gap assignment from 5 members
-```

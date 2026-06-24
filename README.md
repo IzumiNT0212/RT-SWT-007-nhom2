@@ -1,6 +1,6 @@
 # Đánh giá mức độ đồng thuận giữa GPT-4o và đánh giá thủ công khi chấm chất lượng khả năng tái hiện lỗi của báo cáo lỗi
 
-**Topic:** RT-SWT-004  
+**Topic:** RT-SWT-007  
 **Môn:** SWT301 – Research-Based Learning  
 **Nhóm:** Nhóm 2 – [Summer,2026]  
 **Thành viên:** Ngô Trần Quân (PL), Phạm Minh Quân, Đặng Đăng Khoa, Nguyễn Ngọc Gia Thuận, Nguyễn Minh Phúc  

@@ -1,0 +1,48 @@
+id,title,year,database,search_string
+1,Automatic Generation of Test Cases based on Bug Reports,2023,CORE,String A
+2,Evaluating SZZ Implementations: An Empirical Study on the Linux Kernel,2024,CORE,String D
+3,Exploring the Efficacy of ChatGPT in Generating Requirements,2023,CORE,String B
+4,Prompting Is All You Need: Automated Android Bug Replay with Large Language Models,2023,CORE,String A
+5,The Journey to Quality: Understanding and Improving Defect Reporting,2025,CORE,String C
+6,End-to-End Software Construction using ChatGPT: An Experience Report,2023,CORE,String B
+7,How ChatGPT is Solving Vulnerability Management Problem,2023,CORE,String C
+8,An Analysis of the Automatic Bug Fixing Performance of ChatGPT,2023,CORE,String B
+9,Evaluation of LLM-based Tools for the Automated Repair of Security Vulnerabilities in Android Apps,2024,CORE,String C
+10,Evaluating the Code Quality of AI-Assisted Code Generation Tools,2023,CORE,String B
+11,A Systematic Literature Review on Large Language Models for Automated Program Repair,2024,CORE,String B
+12,"Software Testing with Large Language Model: Survey, Landscape, and Vision",2023,CORE,String B
+13,AI-Enhanced Ethical Hacking: A Linux-Focused Experiment,2024,CORE,String C
+14,Large Language Models for Software Engineering: A Systematic Literature Review,2023,CORE,String B
+15,A Comparative Study of Contemporary Learning Paradigms in Bug Report Priority Detection,2024,CORE,String B
+16,No More Manual Tests? Evaluating and Improving ChatGPT for Test Generation,2024,CORE,String B
+17,Impact of Adopting AI Tools by Software Developers towards Productivity and Sustainability,2024,CORE,String B
+18,"Automation, what to do with it? Expedited Scientific Research and Reporting",2024,CORE,String B
+19,On Refining the SZZ Algorithm with Bug Discussion Data,2024,CORE,String D
+20,Impact of the Availability of ChatGPT on Software Development,2024,CORE,String B
+21,Large Language Models for Software Engineering: Survey and Open Problems,2023,CORE,String B
+22,Generative Software Engineering,2024,CORE,String B
+23,Unit Test Generation with GitHub Copilot: A Case Study,2024,CORE,String B
+24,ChatGPT in the Classroom: Exploring its Potential and Limitations in a Functional Programming Course,2024,CORE,String B
+25,An Empirical Study of AI-based Smart Contract Creation,2023,CORE,String B
+26,Automating Human Tutor-Style Programming Feedback,2023,CORE,String B
+27,Integrating ChatGPT in a Computer Science Course: Students Perceptions and Suggestions,2023,CORE,String B
+28,The Impact of Generative Artificial Intelligence Tools in Project-Based Learning,2026,CORE,String B
+29,SKIG Report 2023-2024,2025,CORE,String D
+30,THE USE OF LARGE LANGUAGE MODELS TO AUTOMATICALLY CATEGORISE USER FEEDBACK FOR GAMES,2025,CORE,String D
+31,Learning Software Bug Reports: A Systematic Literature Review,2025,CORE,String D
+32,Understanding the Low Inter-Rater Agreement on Aggressiveness on the Linux Kernel Mailing List,2025,CORE,String D
+33,Mining App Reviews to Support Software Engineering,2022,CORE,String D
+34,Analysis of Human Affect and Bug Patterns to Improve Software Quality and Security,2020,CORE,String D
+35,Measuring Expert Performance at Manually Classifying Domain Entities under Upper Ontology Classes,2018,CORE,String D
+36,On the Quality of Crowdsourced Programming Assignments,2020,CORE,String D
+37,A Screening Test for Disclosed Vulnerabilities in FOSS Components,2018,CORE,String C
+38,Ontologies Relevant to Behaviour Change Interventions,2020,CORE,String D
+39,Teaching Software Metrology: The Science of Measurement for Software Engineering,2024,CORE,String D
+40,LLM Critics Help Catch LLM Bugs,2024,CORE,String B
+41,"False-Positive Bug Reports in Deep Learning Compilers: Stages, Root Causes, and Mitigation",2025,CORE,String C
+42,Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction,2023,CORE,String A
+43,SkipAnalyzer: A Tool for Static Code Analysis with Large Language Models,2023,CORE,String B
+44,Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps,2024,CORE,String A
+45,Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection,2023,CORE,String B
+46,Can LLMs Demystify Bug Reports?,2023,CORE,String A
+47,A Deep Dive into Large Language Models for Automated Bug Localization and Repair,2024,CORE,String C

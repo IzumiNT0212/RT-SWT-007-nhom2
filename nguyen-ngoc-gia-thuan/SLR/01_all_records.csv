@@ -1,0 +1,57 @@
+Id,Title,Authors,Year,Venue,Search_string
+1,A Comparative Study of Contemporary Learning Paradigms in Bug Report Priority Detection,"Yilmaz, Eyüp Halit; Toroslu, ?smail Hakki; Köksal, Ömer",2024,IEEE Access,A
+2,A Context-Aware Multi-agent Approach to Enhancing User Story Management in Agile Software Development,"Nguyen, Khoa; Sami, Malik Abdul; Zhang, Zheying; Abrahamsson, Pekka",2026,Requirements Engineering: Foundation for Software Quality,A
+3,A Dataset and Service for Automated Identification of Security Bug Reports,"França, Horácio L.; Teixeira, César; Laranjeiro, Nuno",2026,IEEE Access,A
+4,A First Look at Bugs in LLM Inference Engines,"Liu, Mugeng; Zhong, Siqi; Bi, Weichen; Zhang, Yixuan; Chen, Zhiyang; Chen, Zhenpeng; Liu, Xuanzhe; Ma, Yun",2026,ACM Transactions on Software Engineering and Methodology,A
+5,A Methodological Framework for LLM-Based Mining of Software Repositories,"Martino, Vincenzo De; Castaño, Joel; Palomba, Fabio; Franch, Xavier; Martínez-Fernández, Silverio",2025,,A
+6,A Multi-Agent RAG Architecture with DPO Fine-Tuning for Automated Bug Report Generation,"Choi, Seojin; Yang, Geunseok",,Available at SSRN 5887029,A
+7,"A process-centric review of large language models in graphical user interface testing: architectures, lifecycle impact, and challenges","Trong, Mai Phu; Son, Ngo Tung; Giang, Vu Truong; Viet, Bui Hoang; Hai, Le Ngoc; Tung, Dinh Thanh",2026,PeerJ Computer Science,A
+8,A Review of Large Language Models for Automated Test Case Generation,"Celik, Arda; Mahmoud, Qusay H.",2025,Machine Learning and Knowledge Extraction,A
+9,A Roadmap for Modern Code Review: Challenges and Opportunities,"Yang, Zezhou; Gao, Cuiyun; Guo, Zhaoqiang; Li, Zhenhao; Liu, Kui; Xia, Xin; Zhou, Yuming",2026,ACM Transactions on Software Engineering and Methodology,A
+10,A survey on the application of large language models in software engineering,"Salem, Nadia; Hudaib, Amjad; Al-Tarawneh, Khawla; Salem, Hamza; Tareef, Afaf; Salloum, Hadi; Mazzara, Manuel",2024,,A
+11,A Systematic Literature Review on Explainability for ML/DL-based Software Engineering,"Cao, Sicong; Sun, Xiaobing; Widyasari, Ratnadira; Lo, David; Wu, Xiaoxue; Bo, Lili; Zhang, Jiale; Li, Bin; Liu, Wei; Wu, Di; Chen, Yixin",2026,ACM Computing Surveys,A
+12,A11y-Bench: Can Language Models Resolve Accessibility Issues?,"Tschoner, Maximilian",2025,,A
+13,Accelerating Mobile Application Development and Testing with Artificial Intelligence: A Systematic Literature Review,"Yurko, Maksym",2026,Universal Library of Innovative Research and Studies,A
+14,"Advancing Bug Report Management: Graph-Based Modeling, Large Language Models, and Quality Improvement","Acharya, Jagrit",2025,,A
+15,"Advancing intrinsic and non-intrinsic bug classification with NLP, machine learning, and few-shot prompt engineering","Bhandari, Pragya",2024,,A
+16,"Advancing LLM-Based Issue Report Classification with Explained Few-Shot Learning, Intent Extraction, Ensemble, and Summarization","De Vito, Gabriele; Starace, Luigi Libero Lucio; Palomba, Fabio; Di Martino, Sergio; Ferrucci, Filomena",2026,ACM Transactions on Software Engineering and Methodology,A
+17,Adversarial bug reports as a security risk in language model-based automated program repair,"Przymus, Piotr; Happe, Andreas; Cito, Jürgen",2025,arXiv preprint arXiv:2509.05372,A
+18,AgentFL: Scaling LLM-based Fault Localization to Project-Level Context,"Qin, Yihao; Wang, Shangwen; Lou, Yiling; Dong, Jinhao; Wang, Kaixin; Li, Xiaoling; Mao, Xiaoguang",2025,,A
+19,Agentic Property-Based Testing: Finding Bugs Across the Python Ecosystem,"Maaz, Muhammad; DeVoe, Liam; Hatfield-Dodds, Zac; Carlini, Nicholas",2025,arXiv preprint arXiv:2510.09907,A
+20,Agentic Software Issue Resolution with Large Language Models: A Survey,"Jiang, Zhonghao; Lo, David; Liu, Zhongxin",2025,,A
+21,AgentReport: A Multi-Agent LLM Approach for Automated and Reproducible Bug Report Generation,"Choi, Seojin; Yang, Geunseok",2025,Applied Sciences,A
+22,Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft,"Yapagc?, Eray; Oztürk, Yavuz Alp Sencer; Tüzün, Eray",,,A
+23,AI Driven Code Review System: Leveraging Artificial Intelligence for Enhanced code Quality Assessment and Bug Detection,"Rehman, Abdul",2025,,A
+24,AI-assisted Generation Of Human-Aligned Unit Tests,"OUEDRAOGO, Wendkûuni Arzouma Marc Christian",2026,,A
+25,ALGORITHMIC DETECTION OF ANOMALIES IN PRODUCTION LOGS: DEV-QA STRATEGIES LEVERAGING ARTIFICIAL IN?LIGENCE AND TRADITIONAL METHODS,"OVSEPIAN, TYHRAN; SHVAIKIN, OLEKSANDR",2026,Journal of Theoretical and Applied Information Technology,A
+26,Aligning Academia with Industry: An Empirical Study of Industrial Needs and Academic Capabilities in AI-Driven Software Engineering,"Yu, Hang; Lai, Yuzhou; Zhang, Li; Lian, Xiaoli; Liu, Fang; Dong, Yanrui; Zhang, Ting; Jin, Zhi; Lo, David",2025,,A
+27,Amalgamation of Classical and Large Language Models for Duplicate Bug Detection: A Comparative Study.,"Ammu, Sai Venkata Akhil; Sehra, Sukhjit Singh; Sehra, Sumeet Kaur; Singh, Jaiteg",2025,"Computers, Materials & Continua",A
+28,An Empirical Evaluation of Locally Deployed LLMs for Bug Detection in Python Code,"Vuli?evi?, Jelena Ili?",2026,,A
+29,An Empirical Investigation on the Challenges in Scientific Workflow Systems Development,"Alam, Khairul; Roy, Banani; Roy, Chanchal K.; Mittal, Kartik",2025,Empirical Software Engineering,A
+30,An Empirical Study of Bugs in the rustc Compiler,"Liu, Zixi; Feng, Yang; Ni, Yunbo; Li, Shaohua; Yin, Xizhe; Shi, Qingkai; Xu, Baowen; Su, Zhendong",2025,Proceedings of the ACM on Programming Languages,A
+31,Magis: Llm-based multi-agent framework for github issue resolution,"Tao, Wei; Zhou, Yucheng; Wang, Yanlin; Zhang, Wenqiang; Zhang, Hongyu; Cheng, Yu",2024,Advances in Neural Information Processing Systems,B
+32,Mining app reviews for user feedback analysis in requirements engineering: a project report,"Motger de la Encarnación, Joaquim; Oriol Hilari, Marc; Tiessler Aguirre, Max; Franch Gutiérrez, Javier; Marco Gómez, Jordi",2025,"Joint Proceedings of REFSQ 2025 Workshops, Doctoral Symposium, Posters & Tools Track, and Education and Training Track co-located with 31st International Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2025)",B
+33,Multi-dimensional Assessment of Crowdsourced Testing Reports via LLMs,"Wang, Yue; Zhao, Yuan; Yu, Shengcheng; Chen, Zhenyu",2025,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE),B
+34,MULTIVERSE: Mining Collective Data Science Knowledge from Code on the Web to Suggest Alternative Analysis Approaches,"Merrill, Mike A.; Zhang, Ge; Althoff, Tim",2021,Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining,B
+35,Natural Language Processing in Software Engineering: A Systematic Literature Review,"Pacheco, Gabriel Nogueira; Martins, Luiz Eduardo Galv?o; da Silva, Ana Estela Antunes; Lavesson, Niklas; Gorschek, Tony",2025,Journal of Software Engineering Research and Development,B
+36,Next-Generation bug reporting: enhancing development with AI automation,"Patil, Avinash; Jadon, Aryan",2025,2025 10th International Conference on Signal Processing and Communication (ICSC),B
+37,NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations,"Chen, Junkai; Li, Zhenhao; Hu, Xing; Xia, Xin",2026,ACM Transactions on Software Engineering and Methodology,B
+38,OmniCode: A Benchmark for Evaluating Software Engineering Agents,"Sonwane, Atharv; Tu, Eng-Shen; Lu, Wei-Chung; Beger, Claas; Larsen, Carter; Dhar, Debjit; Alford, Simon; Chen, Rachel; Pattanayak, Ronit; Dang, Tuan Anh; Chen, Guohao; Geng, Gloria; Ellis, Kevin; Dutta, Saikat",2026,,B
+39,On the Reproducibility of Provenance-based Intrusion Detection that uses Deep Learning,"Abrar, Talha; Shamail, Ahmad; Iqbal, Mohammad Jaffer; Ahmed, Amaan; Abdullah, Muhammad; Shayan, Muhammad; Zaffar, Fareed; Pasquier, Thomas; Eyers, David; Gehani, Ashish",2025,Proceedings of the 3rd ACM Conference on Reproducibility and Replicability,B
+40,On the role of context in AI-driven program repair and test generation,"Nashid, Noor",2026,,B
+41,On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub,"Watanabe, Miku; Li, Hao; Kashiwa, Yutaro; Reid, Brittany; Iida, Hajimu; Hassan, Ahmed E.",2026,ACM Transactions on Software Engineering and Methodology,B
+42,Open Source Code Contributions to Global Health: The Case of Antimalarial Drug Discovery,"Turon, Gemma; Tse, Edwin; Qiu, Xin; Todd, Matthew; Duran-Frigola, Miquel",2024,ACS Medicinal Chemistry Letters,B
+43,Optimizing LLMs for Microservices Logs Analysis through Prompt Engineering,"Ahmed, Sahar",2025,,B
+44,Partiality and Misconception: Investigating Cultural Representativeness in Text-to-Image Models,"Zhang, Lili; Liao, Xi; Yang, Zaijia; Gao, Baihang; Wang, Chunjie; Yang, Qiuling; Li, Deshun",2024,Proceedings of the CHI Conference on Human Factors in Computing Systems,B
+45,"Past, Present, and Future of Bug Tracking in the Generative AI Era","Torun, Utku Boran; Demircan, Mehmet Taha; Gön, Mahmut Furkan; Tüzün, Eray",2026,ACM Transactions on Software Engineering and Methodology,B
+46,Pisco: An Isolation Bug Case Reduction and Deduplication Framework,"Weng, Siyang; Yang, Hongyu; Hu, Zirui; Zhang, Rong; Pan, Zhicheng; Yang, Chengcheng; Zhou, Xuan; Chen, Yuxing; He, Xiaolong; Pan, Anqun",2026,Proceedings of the VLDB Endowment,B
+47,Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey,"She, Xinyu; Liu, Yue; Zhao, Yanjie; He, Yiling; Li, Li; Tantithamthavorn, Chakkrit; Qin, Zhan; Wang, Haoyu",2026,ACM Transactions on Software Engineering and Methodology,B
+48,Post-Training Large Language Models as Software Engineering Agents,"Lyu, Zhiheng",2026,,B
+49,Preliminary evaluation of a guided usability defect report form,"Yusop, Nor Shahida Mohamad; Grundy, John; Schneider, Jean-Guy; Vasa, Rajesh",2018,2018 25th Australasian Software Engineering Conference (ASWEC),B
+50,Process-aware evaluation of generative AI in software engineering: a comprehensive platform and comparative study,"Czy?ewski, Adam; Poniszewska-Mara?da, Aneta; Czy?ewski, Piotr",2025,,B
+51,Progressive Code Integration for Abstractive Bug Report Summarization,"Karim, Shaira Sadia; Rahim, Abrar Mahmud; Alam, Lamia; Tashdeed, Ishmam; Lota, Lutfun Nahar; Kamal, Md Abu Raihan M.; Hossain, Md Azam",2025,arXiv preprint arXiv:2512.00325,B
+52,Prompting Is All You Need: Automated Android Bug Replay with Large Language Models,"Feng, Sidong; Chen, Chunyang",2024,Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,B
+53,Prompting is Helpful: Automated Deep Learning Framework Bug Replay with Large Language Models,"Sun, Jinshuo; Wang, Yi; Du, Xiaoting",2025,2025 IEEE 36th International Symposium on Software Reliability Engineering Workshops (ISSREW),B
+54,"PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs","Antal, Gábor; Vándor, Norbert; Kolláth, István; Mosolygó, Balázs; Heged\Hus, Péter; Ferenc, Rudolf",2024,IEEE Access,B
+55,RCEGen: A Generative Approach for Automated Root Cause Analysis Using Large Language Models (LLMs),"Mollik, Rubel Hassan; Datta, Arup; Mollah, Anamul Haque; Aljedaani, Wajdi",2025,Software,B
+56,ReAPR: Automatic program repair via retrieval-augmented large language models,"Liu, Zixin; Du, Xiaozhi; Liu, Hairui",2025,Software Quality Journal,B

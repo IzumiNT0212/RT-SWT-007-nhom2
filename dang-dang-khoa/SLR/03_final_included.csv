@@ -1,0 +1,11 @@
+ID,Title,Authors,Year,v2_decision,v2_reason
+3,"Large Language Models for Software Engineering A Reproducibility Crisis","Mohammed Latif Siddiq et al.",2025,Include,"Large-scale data on LLM reproducibility in SE"
+6,"Automatic Generation of Test Cases Based on Bug Reports a Feasibility Study","L. Plein et al.",2023,Include,"Direct study on generating test cases from Bug Reports"
+8,"Automatic Generation of Bug Reports Using Large Language Models","L. Chaves et al.",2025,Include,"Provides empirical Acceptance Rate data in industry"
+9,"A Critical Review of Large Language Model on Software Engineering","Quanjun Zhang et al.",2024,Include,"In-depth analysis of APR (Automated Program Repair)"
+13,"Large Language Models are Few-shot Testers Exploring LLM-based General Bug Reproduction","Sungmin Kang et al.",2022,Include,"Applies Few-shot LLMs for bug reproduction"
+14,"Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction","Sungmin Kang et al.",2023,Include,"Evaluates diverse LLMs on the bug reproduction task"
+15,"Prompting Is All You Need Automated Android Bug Replay with Large Language Models","Sidong Feng et al.",2024,Include,"Provides clear metrics on bug reproducibility rate"
+16,"Towards a Human-in-the-Loop Framework for Reliable Patch Evaluation Using an LLM-as-a-Judge","Sherry Shi et al.",2025,Include,"Framework mapping LLM-as-a-judge and Human-in-the-loop"
+23,"Evaluating Large Language Models for Extracting Usability Issues from User Bug Reports","Turki Albalawi et al.",2025,Include,"Evaluates the quality of extracting real usability issues from reports"
+26,"AI-powered Code Review with LLMs Early Results","Zeeshan Rasheed et al.",2024,Include,"Provides early results data of LLM application in Code Review"
